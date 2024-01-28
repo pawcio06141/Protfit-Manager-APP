@@ -11,5 +11,6 @@ Project owner: Paweł Cze#####
 A program was written for Windows
 
 
-![obraz](https://github.com/pawcio06141/Protfit-Manager-APP/assets/157916170/ea0912c7-07c0-4823-9408-0dc9d67e9fea)
+![obraz](https://github.com/pawcio06141/Protfit-Manager-APP/assets/157916170/83931c2e-86b6-4a7b-a329-840c5a733508)
+
 
