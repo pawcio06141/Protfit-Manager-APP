@@ -1,12 +1,12 @@
-### Protfit-Manager-APP
+# Protfit-Manager-APP
 [[Entry update: 28.01.2024}}
       &WINDOWS APP &
 _The application allows easy use of commands _
 
-# DOWNLOAD APPLICATION
+## DOWNLOAD APPLICATION
 link to the app: https://ntpd.eu/q6aNk/
 
-# APPLICATION AUTHORS
+#### APPLICATION AUTHORS
 Project owner: Paweł Cze#####
 A program was written for Windows
 
