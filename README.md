@@ -1,6 +1,4 @@
 # Protfit-Manager-APP
-> [!CAUTION]>
->Wstrzymano twożenie aplikscji |
 [[Update wpisu: 27.01,.2024r}}
 &APPLIKACJA NA WINDOWSA &
 _Aplikacja umożliwa łatwe kożystanie z komend _
