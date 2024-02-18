@@ -1,5 +1,5 @@
 # Protfit-Manager-APP
-[[Entry update: 28.01.2024}}
+[[Entry update: 18.02.2024}}
       &WINDOWS APP &
 _The application allows easy use of commands _
 
