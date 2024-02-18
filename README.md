@@ -4,7 +4,7 @@
 _The application allows easy use of commands _
 
 ## DOWNLOAD APPLICATION
-link to the app: https://ntpd.eu/q6aNk/
+link to the app(old versions): https://ntpd.eu/q6aNk/
 
 #### APPLICATION AUTHORS
 Project owner: Paweł Cze#####
