@@ -4,8 +4,8 @@
 _The application allows easy use of commands _
 
 ## DOWNLOAD APPLICATION
-link to the app(old versions🫥): https://ntpd.eu/q6aNk/
-Link to the app IN :  https://mpawcio990.wixsite.com/veixshopec/gry-na-komputer-pc
+link to the app(old versions🫥): [OLD VERIONS](https://ntpd.eu/q6aNk)
+Link to the app IN : [hati store.veix]( https://mpawcio990.wixsite.com/veixshopec/gry-na-komputer-pc)
 
 #### APPLICATION AUTHORS
 Project owner: Paweł Cze#####
