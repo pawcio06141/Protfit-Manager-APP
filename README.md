@@ -1,10 +1,11 @@
 # Protfit-Manager-APP
-[[Entry update: 18.02.2024}}
+[[Entry update: 15.09.2024}}
       &WINDOWS APP &
 _The application allows easy use of commands _
 
 ## DOWNLOAD APPLICATION
 link to the app(old versions🫥): https://ntpd.eu/q6aNk/
+Link to the app IN :  https://mpawcio990.wixsite.com/veixshopec/gry-na-komputer-pc
 
 #### APPLICATION AUTHORS
 Project owner: Paweł Cze#####
