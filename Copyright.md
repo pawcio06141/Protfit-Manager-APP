@@ -1,4 +1,4 @@
-  @Copyright by Pawel  
+  @Copyright by Veix (pawel)
    # Contents
 * [Licension](#Licension)
 
@@ -8,5 +8,7 @@ LICENSE FOR A COPY OF THE PROGRAM
 * 1.YOU CAN ADD YOUR OWN OPTIONS TO THIS PROGRAM WITH MY PERMISSION
 * 2. YOU CANNOT CREATE A PROGRAM WITH THE SAME NAME AS MY
 * 3. TO CREATE A PROGRAM LIKE MY, CONTACT ME
+  * 4. LICENSION COSTED A 2 $
 **LLL***
 
+(c) copyright by Veix 2024r
